@@ -3,8 +3,8 @@
 ## Hi there 👋, I’m Sebastian
 I’m a Data Scientist, Project Manager and former Marketer.
 <br>
-- 🔭 I’ve just finished my data science bootcamp with [neuefische](https://github.com/neuefische) with a capstone on **flood insurance claim classification and amount prediction**.
-- 🌱 I’m currently deep-diving into **Machine and Deep Learning**.
+- 🔭 I’ve just finished my data science bootcamp with [neuefische](https://github.com/neuefische) with a capstone on **flood insurance claim classification and amount prediction** (find it [here](https://github.com/sbuenker/florita).
+- 🌱 I’m currently working on a project on customer churn.
 
 - 📫 How to reach me **sebastian.buenker a.t gmail.com**
 
