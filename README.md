@@ -1,14 +1,14 @@
-#![visitors](https://visitor-badge.glitch.me/badge?page_id=sbuenker.32&left_color=grey&right_color=blue)
+<--! ![visitors](https://visitor-badge.glitch.me/badge?page_id=sbuenker.32&left_color=grey&right_color=blue) -->
 
 ## Hi there 👋, I’m Sebastian
-I’m a Data Scientist, Consultant and Project Manager working for the Public Sector.
+I’m a Data Scientist, Consultant and Project Manager working in the Public Sector.
 <br>
 <!-- - 🔭 I’ve just finished my data science bootcamp with [neuefische](https://github.com/neuefische) with a capstone on **flood insurance claim classification and amount prediction** (find it [here](https://github.com/sbuenker/florita)).
 - 🌱 I’m currently honing my skills in data engineering. -->
 
 - 📫 How to reach me **sebastian.buenker a.t gmail.com**
 
-### :handshake: Connect with me:
+### 🤝 Connect with me:
 <a href="https://linkedin.com/in/sebastianbuenker" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastianbuenker" height="20" width="25" /></a>
 &nbsp;<a href="https://twitter.com/sbuenquer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sbuenquer" height="20" width="25" /></a>
 
