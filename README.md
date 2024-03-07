@@ -1,7 +1,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sbuenker.32&left_color=grey&right_color=blue) -->
 
 ## Hi there 👋, I’m Sebastian
-I’m a Data Scientist, Consultant and Project Manager working in the Public Sector.
+I’m a Data Scientist, Consultant and Project Manager working for the Public Sector.
 <br>
 <!-- - 🔭 I’ve just finished my data science bootcamp with [neuefische](https://github.com/neuefische) with a capstone on **flood insurance claim classification and amount prediction** (find it [here](https://github.com/sbuenker/florita)).
 - 🌱 I’m currently honing my skills in data engineering. -->
